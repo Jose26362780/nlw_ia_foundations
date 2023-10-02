@@ -11,7 +11,7 @@ Shorts Summary é uma aplicação web para criar resumo de vídeos shorts do You
 
 ![preview](./.github/card.png)
 
-👉🏼[Link do projeto]()
+👉🏼[Link do projeto](https://nlw-ia-foundations.netlify.app/)
 
 
 #  💻🔧 Tecnologias
