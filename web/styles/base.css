@@ -26,9 +26,13 @@ body, button, input {
 
 
 @media (max-width: 550px) {
+  :root {
+    font-size: 62.5%;
+  }
 	body {
     grid-template-columns:repeat(auto-fit, minmax(15rem,1fr));
     display:grid;
+    font-size:1.6rem;
 
   
 		}
@@ -41,17 +45,16 @@ body, button, input {
    }
    
     #app{
-      padding:1rem;
-      fit-content:vertical;
-    
+       /* horizontal*/
+      padding:1rem 1.5rem;
+      
       
 }
 
 #content {
-  fit-content:vertical;
-  padding:2px;
-  width:3px;
-  
+ max-width:37rem;
+ margin-inline:auto;
+ 
   
 }
 

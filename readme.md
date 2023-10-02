@@ -5,7 +5,7 @@ Shorts Summary é uma aplicação web para criar resumo de vídeos shorts do You
 
 # NLW IA - SHORTS SUMMARY - FOUNDATIONS 
 
-- Projeto de cartão desenvolvido pela rocketseat 
+- Projeto que resume shorts com modelos de inteligencia artificial
 
 > NLW IA - SHORTS SUMMARY - FOUNDATIONS 
 
