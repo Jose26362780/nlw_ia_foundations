@@ -2,11 +2,6 @@
 
 Shorts Summary é uma aplicação web para criar resumo de vídeos shorts do Youtube utilizando Inteligência Artificial para transcrever o conteúdo do vídeo e realizar o resumo do conteúdo. Esse projeto é desenvolvido na trilha Foundations na edição NLW IA.
 
-
-# NLW IA - SHORTS SUMMARY - FOUNDATIONS 
-
-- Projeto que resume shorts com modelos de inteligencia artificial
-
 > NLW IA - SHORTS SUMMARY - FOUNDATIONS 
 
 ![preview](./.github/card.png)
